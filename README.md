@@ -28,4 +28,4 @@ Este é um projeto pessoal que recria o clássico Pong, desenvolvido em C# utili
 
     bash
 
-git clone https://github.com/seu-usuario/pong-game-csharp.git
+git clone https://github.com/Desert0rluz/PongGame.git
